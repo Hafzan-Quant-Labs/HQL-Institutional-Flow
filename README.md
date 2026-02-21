@@ -1,7 +1,7 @@
 # HQL Institutional Flow
 ### by [Hafzan Quant Labs](https://github.com/HafzanQuantLabs)
 
-> A professional-grade Smart Money Concepts indicator for TradingView, engineered for traders who analyze price from an institutional perspective.
+> HQL Institutional Flow by Hafzan Quant Labs is a professional-grade price action indicator for TradingView. Featuring real-time swing & internal structure, order blocks, fair value gaps, equal highs/lows, premium & discount zones, and multi-timeframe levels — built for institutional-minded traders.
 
 ---
 
